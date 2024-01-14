@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "hw_wdma.h": "c",
+            "bdm_desc.h": "c",
+            "nvme_hw_dma.h": "c",
+            "fw_desc.h": "c",
+            "fcl_fc_cfg.h": "c",
+            "mutex.h": "c",
+            "host_sim.h": "c",
+            "desc.h": "c",
+            "tcm.h": "c",
+            "ftl_partial_write.h": "c",
+            "ftl_fua.h": "c",
+            "ftl.h": "c",
+            "fw_buf_mgr.h": "c",
+            "sys_data_buf.h": "c",
+            "global.h": "c"
+        }
+    }
+}
